@@ -7,9 +7,6 @@
     <br />
     <!-- <a href="https://arcane-retreat-14101.herokuapp.com/">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -112,9 +109,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
+- applekevin10141106@gmail.com
 
-Project Link: [YelpCamp Campgrounds](https://github.com/yashfalke77/YelpCamp-Campgrounds)
+Project Link: [YelpCamp Campgrounds](https://github.com/AppleKevin1106/YelpCamp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
